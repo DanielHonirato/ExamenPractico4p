@@ -5,4 +5,4 @@ let router = express.Router();
 
 router.get('/', pintor.list);
 
-module.exports = 
+module.exports = router;
